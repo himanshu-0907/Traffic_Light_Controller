@@ -1,2 +1,4 @@
 # Traffic_Light_Controller
-verilog project
+4-way Traffic Light Controller based on Finite State Machine (FSM) using verilog
+
+
